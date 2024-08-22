@@ -1,2 +1,2 @@
 # google-ux-design
- Contains all quizzes, assessments and certificates for the course.
+ This repository contains all quizzes, assessments and certificates for the course.
